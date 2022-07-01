@@ -40,3 +40,6 @@ Create a summary DataFrame of the ride-sharing data by city type. Then, using Pa
 The Suburban fares started around $1,000. The fare dropped in March and in the middle of April.  
 The Rural fares started at around $200. The fares increase and dropped toward the end of April.  
 The Urban fares start with an average of $1,800. The fares consistently increase to around $2,300.
+
+### Business Opportunites
+All three city types experience a spike during mid-February, potentially due to the Valentine's Day holiday. A lot of couples like to celebrate that day with a romontic date with alcohol so they will use a ride service. This is a great day to run a promotional rate to get more rides. Also, to ensure there are enough drivers, there could be an increase in the percentage of the fare that goes to the driver during prime hours (6:00PM - 10:00PM EST). 
